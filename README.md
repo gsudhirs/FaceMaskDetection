@@ -1,7 +1,6 @@
 # FaceMaskDetection
 A convolutional neural network model with the capability of discerning whether a given face is wearing a mask or not.
 
-![image](https://user-images.githubusercontent.com/111015445/219254195-315df7fd-31f0-4c06-8a68-e8b3c15e0b6c.png)
 ![image](https://user-images.githubusercontent.com/111015445/219254097-32101f77-1280-48e2-99d7-12a6c257f18b.png)
 
 Inspired by the following paper:
