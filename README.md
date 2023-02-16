@@ -18,6 +18,11 @@ Confusion Matrix & ROC Curve:
 
 ![image](https://user-images.githubusercontent.com/111015445/219255074-ecd9112d-905f-4654-a7b5-939a8f7dd58e.png)
 
+Model Weaknesses:
+Face detection is thresholded by quality of image and may be incorrect with the prescence of other people in the frame (Model only trained on single face images). 
+
+![image](https://user-images.githubusercontent.com/111015445/219255373-24ed0edc-a2c0-4fe8-993a-19c158c9293c.png)
+
 
 Inspired by the following paper:
 
