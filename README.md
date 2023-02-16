@@ -8,3 +8,4 @@ S. Abbasi, H. Abdi and A. Ahmadi, "A Face-Mask Detection Approach based on YOLO 
 
 Dataset taken from:
 https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset
+https://www.kaggle.com/datasets/prasoonkottarathil/face-mask-lite-dataset
